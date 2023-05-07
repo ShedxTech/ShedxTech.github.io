@@ -17,8 +17,10 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+// $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
+// $font-family-heading: "Playfair Display", serif, -apple-system;
+$font-family: Consolas, monospace;
+
 
 // Footer
 $footer-background-color: $primary;
@@ -64,7 +66,7 @@ $sub-footer-text-color: $white;
 body {
   font-size: 16px;
   line-height: 1.2;
-  font-family: $font-family-base;
+  font-family: $font-family;
   @include media-breakpoint-up(md) {
     font-size: 16px;
     line-height: 1.3;

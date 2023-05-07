@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'ShedxTech'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -9,6 +9,8 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "32px"
   desktop_width: "120px"
+
+description: "ShedxTech is a software development company that specializes in building web and mobile applications for startups and small businesses."
 
 home: 
   limit_services: 6

@@ -13,7 +13,7 @@ logo:
 description: "ShedxTech is a software development company that specializes in building web and mobile applications for startups and small businesses."
 
 home: 
-  limit_services: 6
+  limit_services: 3
 
 collections:
   services:

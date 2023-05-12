@@ -4,81 +4,35 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+In today's digital age, having a strong online presence is crucial for any business. A well-designed website can help you reach a wider audience, improve customer engagement, and ultimately drive sales. At ShedxTech, we understand the power of the web and how it can transform your business. Our team of expert web developers has the skills and experience to design and build custom websites that are tailored to your unique needs and goals.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+<img
+alt="web-dev-shedxtech"
+src="/images/services/web-dev.png"
+/>
 
-# Objectives
+# Why Web Development
 
-Financial accounting and financial reporting are often used as synonyms.
+Gone are the days when a website was just a digital brochure for your business. Today's websites are dynamic, interactive, and optimized for both search engines and user experience. Here are just a few reasons why web development is a game changer:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+1. Increased visibility: A well-designed website can help you reach a wider audience and attract new customers.
 
-## Relevance
+2. Improved customer engagement: With features like chatbots, personalized content, and interactive forms, your website can provide a better user experience and increase customer engagement.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+3. Streamlined business processes: From online payments to automated appointment scheduling, web development can help you streamline your business processes and save time and money.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+# Why Choose ShedxTech?
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+At ShedxTech, we are passionate about web development and the possibilities it offers for businesses. Here are just a few reasons why we are the best engineers for your web development needs:
 
-## Faithful Representation
+**Expertise**: Our team of web developers has years of experience and the technical expertise to design and build websites that are both functional and visually stunning.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+**Collaboration**: We work closely with our clients to understand their unique needs and goals and to ensure that our web development solutions meet their expectations.
 
-## Enhancing Qualitative Characteristics
+**Customization**: We believe that every business is unique, and we tailor our web development services to meet your specific needs and goals.
 
-### Verifiability
+**Support**: We are committed to providing ongoing support and maintenance to ensure that your website continues to perform at its best.
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+# Contact Us Today
 
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Ready to take your business to the next level with web development? Contact us today to learn more about our services and how we can help you achieve your goals.

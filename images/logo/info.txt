@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Signika-Regular
+font link: https://fonts.google.com/specimen/Signika
+font author: Anna Giedryś
+font author site: http://ancymonic.com/
+
+
+icon designer: Alfredo @ IconsAlfredo.us
+icon designer link: /AlfredoCreates
+        
+
+fontColor: {"hex":"#e5261f"}
+bgColor: {"hex":"#EBFBFA"}
+iconColor: {"hex":"#e5261f"}
+
+      

@@ -33,6 +33,38 @@ At ShedxTech, we are passionate about web development and the possibilities it o
 
 **Support**: We are committed to providing ongoing support and maintenance to ensure that your website continues to perform at its best.
 
+# Portfolio
+
+1. Educative Projects
+
+   Developed in-browser coding environment including editor, file navigator, terminal, and embedded browser to practice medium-sized coding projects for 1 million users.
+
+   Link: [https://educative.io/projects](https://educative.io/projects)
+
+2. Educative Learning Plans
+
+   Based on a questionnaire, we developed dynamically curated learning curriculum for developers based on the questionnaire responses for 0.5 million users.
+
+   Link: [https://www.educative.io/learning-plans](https://www.educative.io/learning-plans)
+
+3. Educative Search
+
+   Implemented a text-based search engine for finding content within the thousands of course using Cloudflare workers and state-of-the-art search algorithms. Also implemented keyboard navigation of search results.
+
+   Link: [https://www.educative.io/search](https://www.educative.io/search)
+
+4. Educative Course Homepage
+
+   Created the course homepage used for every course on Educative.
+
+   Link: [https://www.educative.io/courses/mastering-mvm-architecture-in-android-development-using-kotlin](https://www.educative.io/courses/mastering-mvm-architecture-in-android-development-using-kotlin)
+
+5. Educative Enterprise Page
+
+   Created the Enterprise Page of Educative for improving B2B sales and engagement.
+
+   Link: [https://educative.io/enterprise](https://educative.io/enterprise)
+
 # Contact Us Today
 
 Ready to take your business to the next level with web development? Contact us today to learn more about our services and how we can help you achieve your goals.

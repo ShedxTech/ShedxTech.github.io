@@ -3,7 +3,7 @@ permalink: pretty
 title: "ShedxTech"
 
 logo:
-  mobile: "images/logo/vector/default-monochrome.svg"
+  mobile: "images/logo/vector/default-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/vector/default-monochrome.svg"

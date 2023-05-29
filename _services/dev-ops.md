@@ -1,7 +1,7 @@
 ---
 title: "DevOps"
 date: 2019-06-18T12:33:46+10:00
-weight: 5
+weight: 3
 ---
 
 In today's fast-paced world, software development and delivery can be a complex and time-consuming process. At ShedxTech, we understand the challenges of software delivery and have the expertise to help you streamline your software development lifecycle. Our DevOps team can help you improve collaboration, increase efficiency, and reduce the time it takes to get your software to market.

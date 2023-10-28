@@ -1,15 +1,33 @@
 ---
 layout: default
-bodyClass: "page-team"
+bodyClass: "page-basic"
 ---
 
-<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+<div class="container py-2 py-md-4 px-4">
   <div class="row justify-content-start">
-    <div class="col-12 col-md-8">
-      <div class="team team-single">
-        <h1 class="title">{{page.title}}</h1>
-        <div class="content">{{content}}</div>
+    <div class="service service-single">
+      <h1 class="title">{{page.title}}</h1>
+      <h3 class="content">{{content}}</h3>
+    </div>
+
+    {% for member in site.data.team %}
+    <div class="col-12 col-md-4 mb-3">
+      <div class="team team-summary">
+        {% if member.image %}
+        <div class="team-image">
+          <img
+            width="120"
+            height="120"
+            alt="{{ team.title }}"
+            src="{{ member.image | relative_url }}"
+          />
+        </div>
+        {% endif %}
+        <div class="team-meta py-1">
+          <p>{{ member.title }}</p>
+        </div>
       </div>
     </div>
+    {% endfor %}
   </div>
 </div>

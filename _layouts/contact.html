@@ -1,17 +1,56 @@
 ---
 title: Contact
-layout: default
+layout: page
 bodyClass: "page-contact"
 ---
 
-<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-start">
-        <div class="col-12 col-md-8">
-            <div class="service service-single">
-                <h1 class="title">{{page.title}}</h1>
-                {% include call.html show_button=false %}
-                <div class="content mt-4">{{content}}</div>
-            </div>
-        </div>
-    </div>
-</div>
+<style>
+  form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #0056b3;
+  }
+</style>
+
+<p>{{content}}</p>
+
+<form action="https://formspree.io/f/mnqkwrza" method="POST">
+  <label for="email">Your email:</label>
+  <input type="email" name="email" id="email" required />
+
+  <label for="message">Your message:</label>
+  <textarea name="message" id="message" rows="5" required></textarea>
+
+  <!-- Add your other form fields here with appropriate labels -->
+
+  <button type="submit">Send</button>
+</form>
